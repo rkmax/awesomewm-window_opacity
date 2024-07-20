@@ -9,6 +9,7 @@ This project is a script for AwesomeWM that lets you manage window opacity based
 - AwesomeWM
 - Lua
 - AwesomeWM libraries: `awful`, `gears`, `naughty`
+- A compositor like [picom](https://github.com/yshui/picom) for transparency to work
 
 ## How to Install
 
